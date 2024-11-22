@@ -1,0 +1,8 @@
+.country{
+    border: 2px solid rgb(247, 0, 255);
+    border-radius: 20px;
+    padding-top: 20px;
+}
+.color{
+    background-color: greenyellow;
+}
